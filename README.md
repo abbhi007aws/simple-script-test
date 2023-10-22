@@ -1,2 +1,3 @@
 # simple-script-test
-This is first git using push teh repo 
+This is First commit 
+This is seconda commit 
